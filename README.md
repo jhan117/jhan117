@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=000000" alt="Unity logo" title="Unity" height="25" />
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=FFFFFF" alt="Scikit learn logo" title="Scikit learn" height="25" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow logo" title="TensorFlow" height="25" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF" alt="PyTorch logo" title="PyTorch" height="25" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=FFFFFF" alt="Tableau logo" title="Tableau" height="25" />
