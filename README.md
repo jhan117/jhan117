@@ -11,7 +11,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF" alt="Sass logo" title="Sass" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript logo" title="JavaScript" height="25" />
+  </br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" alt="Redux logo" title="Redux" height="25" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+  </br>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=FFFFFF" alt="Jest logo" title="Jest" height="25" />
+  <img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=testing-library&logoColor=FFFFFF" alt="Testing Library logo" title="Testing Library" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF" alt="MongoDB logo" title="MongoDB" height="25" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel logo" title="Vercel" height="25" />
 </div>
 
 <h3 align='center'>Other Stacks</h3>
